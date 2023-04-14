@@ -2,6 +2,11 @@
   "name": "ui-components",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://github.com/carlosiv/ui-components",
+  "engines": {
+    "node": ">=18.14.0",
+    "npm": ">=9.5.0"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
